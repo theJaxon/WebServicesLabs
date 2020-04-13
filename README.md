@@ -4,7 +4,7 @@ Web Services module labs (the module covers SOAP and REST APIs)
 ### Lab 1 [SOAP]:
 The implementation is done using `JAX-WS` following the Youtube tutorial `Introducing SOAP and JAX-WS`
 
-[![Introducing SOAP and JAX-WS](https://github.com/theJaxon/OpenStackLabs/blob/master/etc/Lab%202/P2/Q3/1.jpg)](https://www.youtube.com/watch?v=fE1pVSiXNkU)
+[![Introducing SOAP and JAX-WS](https://github.com/theJaxon/WebServicesLabs/blob/master/etc/Lab%201/Video.jpg)](https://www.youtube.com/watch?v=fE1pVSiXNkU)
 
 JAX-WS stands for Java Api for XML based Web Services, it will generate the `WSDL` for us.
 
