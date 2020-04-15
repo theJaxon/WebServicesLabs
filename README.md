@@ -13,3 +13,8 @@ JAX-WS stands for Java Api for XML based Web Services, it will generate the `WSD
 - a simple `Employee` class was written so that upon request through client using id, it returns the name of the employee
 - The main FXMLcontroller `ServerController` uses the Endpoint.publish method in its initialize method.
 
+--- 
+
+### Lab 2 [REST]:
+The implementation was done using python, flask and sqllite
+
